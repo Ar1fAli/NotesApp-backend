@@ -1,0 +1,15 @@
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/Note.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/NotesappApplication.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/SharedNote.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/User.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/config/JwtAuthenticationFilter.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/config/SecurityConfig.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/config/UserDetailsServiceImpl.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/controller/AuthController.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/controller/NoteController.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/repository/NoteRepository.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/repository/SharedNoteRepository.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/repository/UserRepository.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/service/JwtService.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/service/NoteService.java
+/home/arif/project/test/notes-app-project/backend/src/main/java/com/example/notesapp/service/UserService.java
